@@ -1,0 +1,15 @@
+using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+
+
+public class Shake : MonoBehaviour
+{
+    public Animator camAnim;
+
+    public void CamShake()
+    {
+        camAnim.SetTrigger("Shake");
+    }
+
+}

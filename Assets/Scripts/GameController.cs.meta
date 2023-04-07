@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de03820c61b1130448778eeddfb9b22e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - balloonPopSound: {fileID: 8300000, guid: 02613584defd43a4ea1ffcd768e598b7, type: 3}
+  - scoreText: {instanceID: 0}
+  - GameOverScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

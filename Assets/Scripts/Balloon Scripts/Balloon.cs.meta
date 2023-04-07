@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a346430549ed2a74c94651cc59b523bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - popSound: {fileID: 8300000, guid: 02613584defd43a4ea1ffcd768e598b7, type: 3}
+  - shake: {fileID: 2283407685651270260, guid: bc36889c10f4b864c9cb0d3784e7d44f, type: 3}
+  - scoreManager: {instanceID: 0}
+  - particleSystemPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
